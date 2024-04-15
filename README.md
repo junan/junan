@@ -37,7 +37,6 @@ I am enthusiastic about discussing:
 - **Database Management**: I can offer insights into optimizing database usage and queries, choosing the right database architecture, and best practices for PostgreSQL, MongoDB, and MySQL.
 - **Server-Side Technologies**: Engage with me on the best practices and advanced techniques in framework like Ruby on Rails, Gin, Phoenix, Node.js
 - **Performance Optimization**: Discuss strategies for optimizing application performance, including caching, load balancing, and asynchronous programming.
-- **Coding Best Practices**: Discuss with me the principles of clean code, effective design patterns, and coding standards for maintainability and scalability. Whether it's Ruby, Golang, JavaScript, or Elixir, I have insights into writing code that not only works but is also elegant and easy to manage.
 
 I'm passionate about creating robust and efficient system that drive business success. Let’s connect to explore how backend technologies can transform your projects!
 
