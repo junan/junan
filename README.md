@@ -1,6 +1,6 @@
 # Hello, I'm Junan 👋
 
-## Senior Software Engineer | Polyglot Programmer | AWS Certified Developer
+## Pragmatic Software Engineer | Polyglot Programmer | AWS Certified Developer
 
 Welcome to my GitHub! I'm an experienced software engineer with over 8 years of professional experience spanning the full spectrum of software development, including front-end, back-end, and infrastructure. I've worked with a variety of programming languages and technologies including Ruby, Golang, JavaScript, and Elixir. I'm passionate about building scalable, efficient, and robust software solutions.
 
