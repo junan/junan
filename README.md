@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm an experienced software engineer with over 8 years of 
 ### 🛠️ Technologies & Tools
 
 - **Languages:** Ruby, Golang, JavaScript, Elixir
-- **Back-end:**  Ruby on Rails(including Hotwire), Phoenix, Gin, Beego, Node.js
+- **Back-end:**  Ruby on Rails(including Hotwire), Phoenix(Including LiveView), Gin, Beego
 - **Front-end:** React.js, HTML5, CSS3, Bootstrap
 - **Databases:** PostgreSQL, MongoDB, MySQL, Redis
 - **Infrastructure:** AWS, Docker, Kubernetes, Terraform
@@ -35,7 +35,7 @@ I am enthusiastic about discussing:
 
 - **Backend Architectures**: Ask me about designing and implementing scalable and maintainable backend systems using languages like Ruby, Golang, JavaScript, and Elixir. Whether it's microservices, APIs, or monolithic designs, I have extensive experience to share.
 - **Database Management**: I can offer insights into optimizing database usage and queries, choosing the right database architecture, and best practices for PostgreSQL, MongoDB, and MySQL.
-- **Server-Side Technologies**: Engage with me on the best practices and advanced techniques in framework like Ruby on Rails, Gin, Phoenix, Node.js
+- **Server-Side Technologies**: Engage with me on the best practices and advanced techniques in framework like Ruby on Rails, Gin, Phoenix
 - **Performance Optimization**: Discuss strategies for optimizing application performance, including caching, load balancing, and asynchronous programming.
 
 I'm passionate about creating robust and efficient system that drive business success. Let’s connect to explore how backend technologies can transform your projects!
