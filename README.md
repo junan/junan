@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm an experienced software engineer with over 8 years of 
 
 - **Languages:** Ruby, Golang, JavaScript, Elixir
 - **Back-end:**  Ruby on Rails(including Hotwire), Phoenix(Including LiveView), Gin, Beego
-- **Front-end:** React.js, HTML5, CSS3, Bootstrap
+- **Front-end:** React.js, HTML5, CSS3, TailwindCSS, Bootstrap
 - **Databases:** PostgreSQL, MongoDB, MySQL, Redis
 - **Infrastructure:** AWS, Docker, Kubernetes, Terraform
 - **Tools:** Git, GitHub, GitLab, JIRA, CircleCI, and many more
