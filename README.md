@@ -44,4 +44,4 @@ I'm passionate about creating robust and efficient system that drive business su
 ### 📫 How to reach me
 
 - **LinkedIn:** [Junan Chakma](https://www.linkedin.com/in/junan-chakma/)
-- **Email:** junan.cs@gamil.com
+- **Email:** junan.cs@gmail.com
